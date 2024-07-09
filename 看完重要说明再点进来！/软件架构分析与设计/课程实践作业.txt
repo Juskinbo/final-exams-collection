@@ -1,0 +1,81 @@
+参考地址：
+http://www.runoob.com/nodejs/nodejs-install-setup.html
+
+
+要求：完成相关代码编写及截图，并按照实验报告进行填写。
+
+
+第一次作业（一）
+1、Node.js 安装配置
+2、Node.js 创建第一个应用
+
+
+第二次作业（二）
+学习RESTful 架构详解
+3、Node.js RESTful API 
+4、Node.js MySQL 
+
+
+http://www.runoob.com/redis/redis-tutorial.html
+第三次作业（三）
+1、Redis简介
+2、Redis安装
+3、Redis命令：
+   1）Redis命令
+   2）Redis键
+4、Redis与Java
+
+
+第四次作业（四） HighCharts
+
+https://www.runoob.com/highcharts/highcharts-configuration-syntax.html
+
+1、Highcharts教程
+2、Highcharts环境配置
+3、Highcharts配置语法
+4、Highcharts气泡图
+
+5、选作：前面的例子是静态数据，考虑并实现从数据库中取出数据，并相应进行展示。
+
+
+第5次作业
+http://www.runoob.com/memcached/window-install-memcached.html
+1、Memcached教程
+2、Memcached 安装（可选任意一个操作系统）
+   telnent：在服务中需要开启。
+3、Memcached set 命令
+4、Java 连接 Memcached 服务（也可以选PHP）
+
+
+
+备选作业1
+
+https://www.runoob.com/webservices/ws-summary.html
+基本概念
+Web Service 实例
+
+
+备选作业2
+https://www.runoob.com/dom/dom-tutorial.html
+基本概念学习
+DOM删除节点
+DOM添加节点
+DOM替换节点
+
+
+备选作业3
+https://www.runoob.com/django/django-tutorial.html
+简介
+安装
+常见第一个项目
+表单
+
+备选作业4
+
+AngularJS或React任选一个
+基本概念
+完成一个安装、开发的过程。
+
+
+
+
